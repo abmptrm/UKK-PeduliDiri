@@ -1,0 +1,4 @@
+2022-11-20|13:03|Toko Mainan|40 </tr>
+2022-11-20|13:03|Toko Mainan|40 </tr>
+2022-11-21|04:11|Toko Handphone|46 </tr>
+2022-11-02|13:11|Toko Kelontong|46 </tr>

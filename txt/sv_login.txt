@@ -1,0 +1,5 @@
+NIK|NAMA
+123|asd
+1234567890|Asep
+456|qwe
+678|ghj
